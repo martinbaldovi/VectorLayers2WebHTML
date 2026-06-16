@@ -1,0 +1,30 @@
+[general]
+name=VectorLayersExport2WebHTML
+description=Export selected vector layers to an interactive Leaflet web map with basemap selector, layer control, and attribute search.
+about=This plugin exports one or more vector layers from the current QGIS project to a self-contained HTML file. The generated map uses Leaflet.js, includes multiple basemaps (OpenStreetMap, ESRI World Imagery), layer toggles, and a powerful attribute search panel.
+version=1.0.0
+author=Martin Denver G. Baldovi
+email=martin@baldovi.me
+
+# QGIS 4.0 minimum and maximum (Qt6)
+qgisMinimumVersion=4.0
+qgisMaximumVersion=4.99
+
+# Plugin is stable
+experimental=False
+deprecated=False
+
+# Tags
+tags=export,web,leaflet,html,geojson,search,vector
+
+# Homepage
+homepage=https://github.com/yourname/VectorLayersExport2WebHTML
+
+# Repository
+repository=https://github.com/yourname/VectorLayersExport2WebHTML
+
+# Changelog
+changelog=Export vector layers to Leaflet HTML with basemap selection, layer visibility toggles, and attribute search.
+
+# Tracker
+tracker=https://github.com/yourname/VectorLayersExport2WebHTML/issues
