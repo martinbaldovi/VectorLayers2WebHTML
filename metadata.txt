@@ -18,13 +18,13 @@ deprecated=False
 tags=export,web,leaflet,html,geojson,search,vector
 
 # Homepage
-homepage=https://github.com/yourname/VectorLayersExport2WebHTML
+homepage=https://github.com/martinbaldovi/VectorLayers2WebHTML
 
 # Repository
-repository=https://github.com/yourname/VectorLayersExport2WebHTML
+repository=https://github.com/martinbaldovi/VectorLayers2WebHTML
 
 # Changelog
 changelog=Export vector layers to Leaflet HTML with basemap selection, layer visibility toggles, and attribute search.
 
 # Tracker
-tracker=https://github.com/yourname/VectorLayersExport2WebHTML/issues
+tracker=https://github.com/martinbaldovi/VectorLayers2WebHTML/issues
